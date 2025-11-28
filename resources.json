@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Airfield",
+    "format": "image/svg+xml",
+    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/airfield.svg",
+    "group": "maki"
+  },
+  {
+    "name": "Park",
+    "format": "image/svg+xml",
+    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/park.svg",
+    "group": "maki"
+  },
+  {
+    "name": "Parking",
+    "format": "image/svg+xml",
+    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/parking.svg",
+    "group": "maki"
+  },
+  {
+    "name": "Police",
+    "format": "image/svg+xml",
+    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/police.svg",
+    "group": "maki"
+  },
+  {
+    "name": "Restaurant",
+    "format": "image/svg+xml",
+    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/restaurant.svg",
+    "group": "maki"
+  },
+  {
+    "name": "School",
+    "format": "image/svg+xml",
+    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/school.svg",
+    "group": "maki"
+  },
+  {
+    "name": "Shop",
+    "format": "image/svg+xml",
+    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/shop.svg",
+    "group": "maki"
+  },
+  {
+    "name": "Taxi",
+    "format": "image/svg+xml",
+    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/taxi.svg",
+    "group": "maki"
+  }
+]
