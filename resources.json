@@ -1,58 +1,121 @@
 [
   {
     "id": 1,
+    "name": "Aerialway",
+    "format": "image/svg+xml",
+    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/aerialway.svg",
+    "group": "maki"
+  },
+  {
+    "id": 2,
     "name": "Airfield",
     "format": "image/svg+xml",
     "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/airfield.svg",
     "group": "maki"
   },
   {
-    "id": 2,
-    "name": "Park",
-    "format": "image/svg+xml",
-    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/park.svg",
-    "group": "maki"
-  },
-  {
     "id": 3,
-    "name": "Parking",
+    "name": "Airport",
     "format": "image/svg+xml",
-    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/parking.svg",
+    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/airport.svg",
     "group": "maki"
   },
   {
     "id": 4,
-    "name": "Police",
+    "name": "Alcohol Shop",
     "format": "image/svg+xml",
-    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/police.svg",
+    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/alcohol-shop.svg",
     "group": "maki"
   },
   {
     "id": 5,
-    "name": "Restaurant",
+    "name": "American Football",
     "format": "image/svg+xml",
-    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/restaurant.svg",
+    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/american-football.svg",
     "group": "maki"
   },
   {
     "id": 6,
-    "name": "School",
+    "name": "Amusement Park",
     "format": "image/svg+xml",
-    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/school.svg",
+    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/amusement-park.svg",
     "group": "maki"
   },
   {
     "id": 7,
-    "name": "Shop",
+    "name": "Animal Shelter",
     "format": "image/svg+xml",
-    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/shop.svg",
+    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/animal-shelter.svg",
     "group": "maki"
   },
   {
     "id": 8,
-    "name": "Taxi",
+    "name": "Aquarium",
     "format": "image/svg+xml",
-    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/taxi.svg",
+    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/aquarium.svg",
+    "group": "maki"
+  },
+  {
+    "id": 9,
+    "name": "Arrow",
+    "format": "image/svg+xml",
+    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/arrow.svg",
+    "group": "maki"
+  },
+  {
+    "id": 10,
+    "name": "Art Gallery",
+    "format": "image/svg+xml",
+    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/art-gallery.svg",
+    "group": "maki"
+  },
+  {
+    "id": 11,
+    "name": "Attraction",
+    "format": "image/svg+xml",
+    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/attraction.svg",
+    "group": "maki"
+  },
+  {
+    "id": 12,
+    "name": "Bakery",
+    "format": "image/svg+xml",
+    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/bakery.svg",
+    "group": "maki"
+  },
+  {
+    "id": 13,
+    "name": "Bank",
+    "format": "image/svg+xml",
+    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/bank.svg",
+    "group": "maki"
+  },
+  {
+    "id": 14,
+    "name": "Bar",
+    "format": "image/svg+xml",
+    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/bar.svg",
+    "group": "maki"
+  },
+  {
+    "id": 15,
+    "name": "Barrier",
+    "format": "image/svg+xml",
+    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/barrier.svg",
+    "group": "maki"
+  },
+  {
+    "id": 16,
+    "name": "Baseball",
+    "format": "image/svg+xml",
+    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/baseball.svg",
+    "group": "maki"
+  },
+  {
+    "id": 17,
+    "name": "Basketball",
+    "format": "image/svg+xml",
+    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/basketball.svg",
     "group": "maki"
   }
 ]
