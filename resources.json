@@ -117,5 +117,180 @@
     "format": "image/svg+xml",
     "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/basketball.svg",
     "group": "maki"
+  },
+  {
+    "id": 18,
+    "name": "BBQ",
+    "format": "image/svg+xml",
+    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/bbq.svg",
+    "group": "maki"
+  },
+  {
+    "id": 19,
+    "name": "Beach",
+    "format": "image/svg+xml",
+    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/beach.svg",
+    "group": "maki"
+  },
+  {
+    "id": 20,
+    "name": "Beer",
+    "format": "image/svg+xml",
+    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/beer.svg",
+    "group": "maki"
+  },
+  {
+    "id": 21,
+    "name": "Bicycle Share",
+    "format": "image/svg+xml",
+    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/bicycle-share.svg",
+    "group": "maki"
+  },
+  {
+    "id": 22,
+    "name": "Bicycle",
+    "format": "image/svg+xml",
+    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/bicycle.svg",
+    "group": "maki"
+  },
+  {
+    "id": 23,
+    "name": "Blood Bank",
+    "format": "image/svg+xml",
+    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/blood-bank.svg",
+    "group": "maki"
+  },
+  {
+    "id": 24,
+    "name": "Bowling Alley",
+    "format": "image/svg+xml",
+    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/bowling-alley.svg",
+    "group": "maki"
+  },
+  {
+    "id": 25,
+    "name": "Bridge",
+    "format": "image/svg+xml",
+    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/bridge.svg",
+    "group": "maki"
+  },
+  {
+    "id": 26,
+    "name": "Building Alt 1",
+    "format": "image/svg+xml",
+    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/building-alt1.svg",
+    "group": "maki"
+  },
+  {
+    "id": 27,
+    "name": "Building",
+    "format": "image/svg+xml",
+    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/building.svg",
+    "group": "maki"
+  },
+  {
+    "id": 28,
+    "name": "Bus",
+    "format": "image/svg+xml",
+    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/bus.svg",
+    "group": "maki"
+  },
+  {
+    "id": 29,
+    "name": "Cafe",
+    "format": "image/svg+xml",
+    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/cafe.svg",
+    "group": "maki"
+  },
+  {
+    "id": 30,
+    "name": "Campsite",
+    "format": "image/svg+xml",
+    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/campsite.svg",
+    "group": "maki"
+  },
+  {
+    "id": 31,
+    "name": "Car Rental",
+    "format": "image/svg+xml",
+    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/car-rental.svg",
+    "group": "maki"
+  },
+  {
+    "id": 32,
+    "name": "Car Repair",
+    "format": "image/svg+xml",
+    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/car-repair.svg",
+    "group": "maki"
+  },
+  {
+    "id": 33,
+    "name": "Car",
+    "format": "image/svg+xml",
+    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/car.svg",
+    "group": "maki"
+  },
+  {
+    "id": 34,
+    "name": "Casino",
+    "format": "image/svg+xml",
+    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/casino.svg",
+    "group": "maki"
+  },
+  {
+    "id": 35,
+    "name": "Castle",
+    "format": "image/svg+xml",
+    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/castle.svg",
+    "group": "maki"
+  },
+  {
+    "id": 36,
+    "name": "Caution",
+    "format": "image/svg+xml",
+    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/caution.svg",
+    "group": "maki"
+  },
+  {
+    "id": 37,
+    "name": "Cementery",
+    "format": "image/svg+xml",
+    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/cementery.svg",
+    "group": "maki"
+  },
+  {
+    "id": 38,
+    "name": "Charging Station",
+    "format": "image/svg+xml",
+    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/charging-station.svg",
+    "group": "maki"
+  },
+  {
+    "id": 39,
+    "name": "Cinema",
+    "format": "image/svg+xml",
+    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/cinema.svg",
+    "group": "maki"
+  },
+  {
+    "id": 40,
+    "name": "Circle Stroked",
+    "format": "image/svg+xml",
+    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/circle-stroked.svg",
+    "group": "maki"
+  },
+  {
+    "id": 41,
+    "name": "Circle",
+    "format": "image/svg+xml",
+    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/circle.svg",
+    "group": "maki"
+  },
+  {
+    "id": 42,
+    "name": "City",
+    "format": "image/svg+xml",
+    "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/city.svg",
+    "group": "maki"
   }
 ]
