@@ -292,5 +292,33 @@
     "format": "image/svg+xml",
     "url": "https://raw.githubusercontent.com/giscaleing/metrix-icons/refs/heads/main/maki/city.svg",
     "group": "maki"
+  },
+  {
+    "id": 43,
+    "name": "Abacus",
+    "format": "image/svg+xml",
+    "url": "https://raw.githubusercontent.com/atisawd/boxicons/refs/heads/master/svg/regular/bx-abacus.svg",
+    "group": "boxicons"
+  },
+  {
+    "id": 44,
+    "name": "Accessibility",
+    "format": "image/svg+xml",
+    "url": "https://raw.githubusercontent.com/atisawd/boxicons/refs/heads/master/svg/regular/bx-accessibility.svg",
+    "group": "boxicons"
+  },
+  {
+    "id": 45,
+    "name": "Add to Queue",
+    "format": "image/svg+xml",
+    "url": "https://raw.githubusercontent.com/atisawd/boxicons/refs/heads/master/svg/regular/bx-add-to-queue.svg",
+    "group": "boxicons"
+  },
+  {
+    "id": 46,
+    "name": "Adjust",
+    "format": "image/svg+xml",
+    "url": "https://raw.githubusercontent.com/atisawd/boxicons/refs/heads/master/svg/regular/bx-adjust.svg",
+    "group": "boxicons"
   }
 ]
