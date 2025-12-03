@@ -2,5 +2,9 @@
   {
     "id": "bi",
     "name": "Boostrap Icons"
+  },
+  {
+    "id": "maki",
+    "name": "Maki"
   }
 ]
